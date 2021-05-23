@@ -1,0 +1,177 @@
+body, h1{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    
+}
+body{
+    background-color: #ffddcc;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5.3125rem;
+    padding-top: 20px;
+    
+}
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    margin-bottom: 50px;
+}
+p{
+    font-size: 1.2rem;
+}
+h3{
+    font-size: 1.25rem;
+}
+.intro{
+    font-size: 1.875rem;
+    margin-top: 0;
+}
+.topcontainer{
+    background-color:#EAF9F5;
+    position: relative;
+    padding-top: 100px;
+    line-height: 2;  
+}
+
+.bottomcloud{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.topcloud{
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+.mountain{
+    width: 37.5rem;
+    position: relative;
+    top: 10px;
+}
+.profilepic{
+    border-radius: 100%;
+    padding: 50px;
+    margin-bottom: 0;
+}
+
+h1, h2{
+    color: #66BFBF;
+    
+}
+h3, a{
+    color: #11999E;
+}
+
+.skill-row1{
+    position: relative;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-image1{
+    height: 30%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+.skill-image2{
+    width: 30%;
+    float: right;
+    margin-right: 30px;
+}
+.profilepic{
+    margin: 100px 0 25px;
+}
+hr{
+    width: 100px;
+    border-style: dotted none none;
+    border-width: 8px;
+    color: lightgrey;
+    margin: 100px auto;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height: 200px;
+    margin: 50px 0 0 0;
+    
+}
+.footer-link{
+    color: #11999E;
+    text-decoration: none;
+    margin: 50px;
+    position: relative;
+    top:  50px;
+    font-weight: 600;
+}
+.footer-link:hover{
+    color: #e4f7f8;
+}
+.owner{
+    position: relative;
+    top:  80px;
+    color:#EAF6F6;
+    font-size: 0.9rem;
+}
+.lets{
+    margin-bottom: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.BUTTON {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #45EFD8);
+    background-image: -moz-linear-gradient(top, #66BFBF, #45EFD8);
+    background-image: -ms-linear-gradient(top, #66BFBF, #45EFD8);
+    background-image: -o-linear-gradient(top, #66BFBF, #45EFD8);
+    background-image: -webkit-gradient(to bottom, #66BFBF, #45EFD8);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    height: 19px;
+    line-height: 19px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    width: 102px;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 12px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 75px;
+ }
+ 
+ .BUTTON:hover {
+    background: #47EFD8;
+    border: solid #49ECD6 0;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+ }
